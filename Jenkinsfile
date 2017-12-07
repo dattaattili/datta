@@ -1,10 +1,30 @@
-node
-{
-stage 'dev-ops'
-echo 'initial'
-  //
-stage 'test-stage'
-echo 'secondary'
-stage 'deploy-stage'
-echo 'tertiary'
+#!/usr/bin/env groovy
+properties([
+    [$class: 'GithubProjectProperty',
+    displayName: '',
+    projectUrlStr: 'https://github.com/VeridicSolutions99/Veridic_Atlanta.git/'],
+    pipelineTriggers([githubPush()])])
+
+pipeline {
+    agent any 
+
+    stages {
+        stage('Build') { 
+            steps { 
+                sh 'pwd' 
+            }
+        }
+        stage('Test'){
+            steps {
+                sh 'java -version'
+                
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'ls'
+                sh 'pwd'
+            }
+        }
+    }
 }
