@@ -1,0 +1,41 @@
+[33mcommit 6f640e68120715e1853941b3aa460878af7adf56[m[33m ([m[1;36mHEAD -> [m[1;32mmarvel[m[33m, [m[1;31morigin/marvel[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Thu Dec 7 12:28:50 2017 -0500
+
+    Update Jenkinsfile
+
+[33mcommit 7bc1d8099e448869a11711d81a99c099d7564d30[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Thu Dec 7 11:53:52 2017 -0500
+
+    Create webhooks
+
+[33mcommit 8206d71d77b8e2b28f8f084d9bd3692060fd0ae4[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Thu Dec 7 11:43:57 2017 -0500
+
+    Update READme.md
+
+[33mcommit dbc9c162233c1d25f233e09146191d49c20c93c7[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Thu Dec 7 11:41:20 2017 -0500
+
+    Update Jenkinsfile
+
+[33mcommit 402fdb4bf7cd7e67f2435a8447e97d75f8c67420[m[33m ([m[1;31morigin/walker[m[33m)[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Mon Dec 4 10:15:36 2017 -0500
+
+    Rename jenkinsfile to Jenkinsfile
+
+[33mcommit 14924209dfcedf665118dff7c0d1af57d613f62a[m
+Author: Datta Chaitanya Attili <dattaattili@gmail.com>
+Date:   Mon Dec 4 10:09:56 2017 -0500
+
+    Create jenkinsfile
+
+[33mcommit 9d0e0a32337071704bd31405aa3fc9e75cc808e0[m
+Author: Datta <dattaattili@gmail.com>
+Date:   Mon Dec 4 10:00:54 2017 -0500
+
+    new file created
